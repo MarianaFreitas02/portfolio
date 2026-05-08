@@ -408,12 +408,7 @@ function App() {
             <p>
               Estudante de Engenharia da Computação em transição para Cyber Security, com base em desenvolvimento web, redes, Linux e segurança de aplicações. Atualmente estudo pentest, vulnerabilidades web, hardening e ferramentas como Kali Linux, Greenbone/OpenVAS e análise de riscos.
             </p>
-            <p>
-              Atualmente, passo meus dias codando, estudando novas tecnologias como 
-              <strong className="text-cyan-400 font-normal"> React</strong> e 
-              <strong className="text-cyan-400 font-normal"> CyberSecurity</strong>. 
-              Busco constantemente melhorar minha lógica de programação e arquitetura de software para entregar soluções não apenas funcionais, mas seguras e performáticas.
-            </p>
+            
           </div>
 
           <div className="flex flex-wrap gap-4">

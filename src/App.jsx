@@ -8,7 +8,7 @@ function App() {
   const projects = [
     {
       title: "Secure Vault (TCC)",
-      description: "Sistema de criptografia client-side focado em Zero-Knowledge. Garante que nem o servidor tenha acesso aos dados brutos do usuário. Desenvolvido com foco em privacidade.",
+      description: "Arquitetura de armazenamento seguro baseada em criptografia client-side AES-GCM e modelo Zero-Knowledge. Projeto desenvolvido como TCC com foco em privacidade, soberania de dados e segurança de aplicações web.",
       tags: ["React", "Node.js", "Cryptography", "Security"],
       image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=1000&auto=format&fit=crop", 
       repoLink: "https://github.com/MarianaFreitas02/tcc-vault",
@@ -408,7 +408,9 @@ function App() {
             <p>
               Estudante de Engenharia da Computação em transição para Cyber Security, com base em desenvolvimento web, redes, Linux e segurança de aplicações. Atualmente estudo pentest, vulnerabilidades web, hardening e ferramentas como Kali Linux, Greenbone/OpenVAS e análise de riscos.
             </p>
-            
+            <p>Meu objetivo é construir carreira em Cyber Security,
+especialmente nas áreas de Web Security, Pentest e Segurança de Aplicações.
+Minha base em desenvolvimento web me permite compreender vulnerabilidades tanto do lado ofensivo quanto defensivo.</p>
           </div>
 
           <div className="flex flex-wrap gap-4">

@@ -112,7 +112,7 @@ function App() {
           </h1>
           
           <p className="text-slate-400 text-lg max-w-lg leading-relaxed">
-            Front-end Developer & Security Enthusiast. Construindo o futuro da web com pixels perfeitos e dados seguros.
+            Cyber Security Student | Web Security | Pentest | Linux | Networking | Data Science | Desenvolvimento Web | React | Node.js | MySQL | Python | Kali Linux | Git 
           </p>
           
           <div className="flex flex-wrap gap-4 pt-4">
@@ -406,7 +406,7 @@ function App() {
           
           <div className="space-y-6 text-slate-400 text-lg leading-relaxed mb-8">
             <p>
-              Sou uma desenvolvedora apaixonada por tecnologia. Comecei minha jornada explorando o básico da web e me apaixonei pela possibilidade de criar interfaces interativas que impactam usuários reais.
+              Estudante de Engenharia da Computação em transição para Cyber Security, com base em desenvolvimento web, redes, Linux e segurança de aplicações. Atualmente estudo pentest, vulnerabilidades web, hardening e ferramentas como Kali Linux, Greenbone/OpenVAS e análise de riscos.
             </p>
             <p>
               Atualmente, passo meus dias codando, estudando novas tecnologias como 
